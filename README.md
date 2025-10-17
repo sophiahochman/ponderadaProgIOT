@@ -102,7 +102,7 @@ O arquivo com o código pode ser encontrado em: [código](led_blink2.ino).
 ![imagem led](assets/tinkercad.png)
 
 ##### Vídeo demonstrando o funcionamento
-![gif](assets/tinker.gif)
+![gif](assets/led.gif)https://drive.google.com/drive/folders/18vwX78nwUYtFjIMXMa92UOnBc5WWcgON?usp=drive_link
 
 ### Componentes usados
 
