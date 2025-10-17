@@ -64,7 +64,7 @@ O arquivo com o código também pode ser encontrado em: [código](led_blink.ino)
 ![imagem led](assets/arduino_led.jpg)
 
 ##### Vídeo demonstrando o funcionamento
-![gif](assets/led.gif)
+![gif](assets/led.gif)https://drive.google.com/drive/folders/18vwX78nwUYtFjIMXMa92UOnBc5WWcgON?usp=drive_link
 
 
 
